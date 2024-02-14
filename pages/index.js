@@ -10,7 +10,8 @@ import Testimonials from '../components/Testimonials.js'
 import Faq from '../components/Faq.js'
 import Footer from '../components/Footer.js'
 import Popup from '../components/Popup.js'
-
+import ThemeSwitch from '../components/ThemeSwitch'
+import ThemeToggler from '../components/ThemeToggler.js'
 
 
 const index = () => {
@@ -33,6 +34,7 @@ const index = () => {
             <Faq />
             <Footer />
             <Popup />
+            <ThemeToggler />
         </>
     )
 }
