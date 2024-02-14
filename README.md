@@ -1,4 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+App is live at : https://neon-landing-page-three.vercel.app/
  
 ## Getting Started
 
